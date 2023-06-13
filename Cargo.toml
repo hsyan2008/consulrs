@@ -22,7 +22,7 @@ rustls-tls = ["reqwest/rustls-tls", "rustify/rustls-tls"]
 async-trait = "0.1.51"
 base64 = "0.13.0"
 consulrs_derive = { version = "0.1.0", path = "consulrs_derive" }
-derive_builder = "0.10.2"
+derive_builder = "0.12.0"
 http = "0.2.5"
 reqwest = { version = "0.11.4", default-features = false, optional = true }
 rustify = { version = "0.5.2", default-features = false, optional = true }
